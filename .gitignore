@@ -1,0 +1,5 @@
+files/*
+job_seeker_key.pem
+terraform.tfstate
+.terraform.lock.hcl
+.terraform/*
